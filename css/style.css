@@ -160,10 +160,11 @@ p{
 
 .lg-heading{
     font-size: 40px;
+    line-height: 1.2;
 }
 
 #section-hero{
-    height: 400px;
+    height: 450px;
 }
 
 #section-hero .hero-img{
@@ -191,6 +192,7 @@ p{
 .box{
     float: left;
     width: 33.3%;
+    height: 100%;
     padding: 50px;
     text-align: center;
 }
@@ -223,7 +225,7 @@ p{
 }
 
 #testimonials{
-    height: 800px;
+    height: 100%;
     background-image: url(../img/homtel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
